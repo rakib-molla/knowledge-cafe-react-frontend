@@ -1,0 +1,48 @@
+[
+    {
+        "id": "1",
+        "authorName": "Mr. Rakib",
+        "blogTitle": "What are the different data types present in javascript?",
+        "images": "image",
+        "blogCoverImage": "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1680241887~exp=1680242487~hmac=29778596179c5e48bc99b441fa95ed7a82c82fc2c9083d4dc4c9c93d4e50aa68",
+        "authorImage": "http://tricky-photoshop.com/wp-content/uploads/2017/08/final-1.png",
+        "readTime": "10",
+        "publishDate": "Mar 30 (2 Days ago)",
+        "tags": "#beginners  #programming"
+    },
+    {
+        "id": "2",
+        "authorName": "Mr. Dulal",
+        "blogTitle": "What Is Artificial Intelligence",
+        "images": "image",
+        "blogCoverImage": "https://img.freepik.com/free-vector/sphere-grid-wave-with-binary-code-ai-artificial-intelligence-logo-hand-machine-learning-concept_127544-855.jpg?w=740&t=st=1680254956~exp=1680255556~hmac=2e4478147559d04fa0b536d756b871c441caa34cd8938c42a639fdef2c4d4063",
+        "authorImage": "https://www.pngitem.com/pimgs/m/404-4042710_circle-profile-picture-png-transparent-png.png",
+        "readTime": "9",
+        "publishDate": "Mar 20 (4 Days ago)",
+        "tags": "#beginners  #programming"
+    },
+    {
+        "id": "3",
+        "authorName": "Mr. Riya",
+        "blogTitle": "Exercise improves mental health",
+        "images": "image",
+        "blogCoverImage": "https://img.freepik.com/free-photo/silhouette-young-fitness-man-running-sunrise_1150-14615.jpg?w=740&t=st=1680260514~exp=1680261114~hmac=47a622da733832ad4f06aa1be3f379e39523236922d70af014680ab1e8220fef",
+        "authorImage": "https://global-uploads.webflow.com/5b3207863df6e02b67eb8499/60a6654c0661f53bc5621940_ccooo.jpg",
+        "readTime": "8",
+        "publishDate": "Mar 17 (6 Days ago)",
+        "tags": "#beginners  #programming"
+    },
+    {
+        "id": "4",
+        "authorName": "Mr. Priya",
+        "blogTitle": "How to Improve Your Programming Skills",
+        "images": "image",
+        "blogCoverImage": "https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?w=740&t=st=1680262195~exp=1680262795~hmac=18b866a040885c7534affbd2875b70069184c5df8235065f81c7e0593750921d",
+        "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpuTlDkqTub-W9PFYdpllQLu8sNPSS_YgMUn5O-yIsotI4jYHbYlk-TgUCo9mZNmhC0EU&usqp=CAU",
+        "readTime": "7",
+        "publishDate": "Mar 15 (5 Days ago)",
+        "tags": "#beginners  #programming"
+    }
+
+
+]
